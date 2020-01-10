@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'GE ss';
+	src: url('GE-ss.eot');
+	src: url('GE-ss.eot?#iefix') format('embedded-opentype'),
+		url('GE-ss.woff') format('woff'),
+		url('GE-ss.ttf') format('truetype'),
+		url('GE-ss.svg') format('svg');
+}
